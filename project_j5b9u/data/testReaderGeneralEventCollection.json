@@ -1,0 +1,45 @@
+{
+    "name": "newName",
+    "things": [
+        {
+            "date": 20221207,
+            "artist": "artist1",
+            "price": 100,
+            "name": "name1",
+            "ageRestriction": 18,
+            "location": "location1"
+        },
+        {
+            "date": 20221210,
+            "artist": "artist1",
+            "price": 100,
+            "name": "name1",
+            "ageRestriction": 3,
+            "location": "location1"
+        },
+        {
+            "date": 20221210,
+            "artist": "artist2",
+            "price": 1000,
+            "name": "name2",
+            "ageRestriction": 19,
+            "location": "location2"
+        },
+        {
+            "date": 20221217,
+            "artist": "artist3",
+            "price": 5000,
+            "name": "name3",
+            "ageRestriction": 4,
+            "location": "location3"
+        },
+        {
+            "date": 20230708,
+            "artist": "artist4",
+            "price": 10,
+            "name": "name4",
+            "ageRestriction": 4,
+            "location": "location4"
+        }
+    ]
+}

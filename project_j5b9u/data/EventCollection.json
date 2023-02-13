@@ -1,0 +1,21 @@
+{
+    "name": "EventCollection",
+    "things": [
+        {
+            "date": 1,
+            "artist": "1",
+            "price": 1,
+            "name": "1",
+            "ageRestriction": 1,
+            "location": "1"
+        },
+        {
+            "date": 2,
+            "artist": "2",
+            "price": 2,
+            "name": "2",
+            "ageRestriction": 2,
+            "location": "2"
+        }
+    ]
+}
